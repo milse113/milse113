@@ -54,6 +54,9 @@ I'm a full stack developer whose been programming for ~7 years. Outside of progr
 
 ## My Preferred `x`
 
+<details>
+<summary>Click to expand!</summary>
+
 `where x = pronouns` She/They  
 `where x = stack`: PostgreSQL, Go (gorilla), and Nuxt.JS  
 `where x = language`: Haskell  
@@ -64,6 +67,7 @@ I'm a full stack developer whose been programming for ~7 years. Outside of progr
 `where x = shell`: ZSH  
 `where x = terminal && os = mac` iTerm2  
 `where x = terminal && os = linux` Alacritty
+</details>
 
 ## Emoji Key
 
