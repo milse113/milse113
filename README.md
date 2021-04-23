@@ -10,6 +10,8 @@ I'm a full stack developer whose been programming for ~7 years. Outside of progr
   - Cosmos is a private Minecraft utility mod written in Kotlin with an emphasis on clean, maintainable code
 - Galaxy
   - Galaxy is a scalable server-side tool to enable cross-server communication between Minecraft clients written in Go and PostgreSQL
+- Ember
+  - Ember is a private utility mod build with fabric for modern Minecraft versions.
 - Kyra
   - Kyra is a tool to allow for the automation of Minecraft accounts on multiplayer servers written in Rust
 
