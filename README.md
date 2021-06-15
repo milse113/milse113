@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a full stack developer whose been programming for ~7 years. Outside of programming I have an interest in political science, linguistics, and conlanging. I speak English, ASL, and Toki Pona fluently and I'm currently working on learning Korean.
+I'm a full stack developer whose been programming for ~7 years. Outside of programming I have an interest in political science, linguistics, and conlanging. I speak English, ASL, and Toki Pona fluently and I'm currently working on learning Korean and Esperanto.
 
 ## Projects I'm working on
 
