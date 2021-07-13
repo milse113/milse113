@@ -70,8 +70,8 @@ Many, many more
 <details>
 <summary>Click to expand!</summary>
 
-`where x = pronouns` They/She
-`where x = stack`: PostgreSQL, Actix (Rust), SvelteKit `||` PostgreSQL, Spock (Haskell), Halogen
+`where x = pronouns` They/She  
+`where x = stack`: PostgreSQL, Actix (Rust), SvelteKit `||` PostgreSQL, Spock (Haskell), Halogen  
 `where x = language`: Haskell  
 `where x = editor`: tmux + NeoVim  
 `where x = os`: Arch Linux  
