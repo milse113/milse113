@@ -41,7 +41,7 @@ I'm a full stack developer whose been programming for ~8 years. Outside of progr
 - Lisp
   - Common Lisp
   - Scheme
-- OCaml
+- OCaml  
 Many, many more
 </details>
 
