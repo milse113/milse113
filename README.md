@@ -77,7 +77,7 @@ Many, many more
 `where x = os`: Arch Linux  
 `where x = wm && os = mac` Yabai  
 `where x = wm && os = linux` XMonad  
-`where x = shell`: ZSH
+`where x = shell`: ZSH  
 `where x = terminal && os = mac` iTerm2  
 `where x = terminal && os = linux` Alacritty
 </details>
